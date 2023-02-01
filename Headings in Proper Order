@@ -1,0 +1,18 @@
+<div class="exampleHeadings">
+<h1>Main Topic for the entire page. Use only one heading level 1</h1>
+  <h2>The first topic on the page</h2>
+    <h3>First Sub topic for the h2 above</h3>
+      <p>Details and text copy that belongs to the h3 [...]</p>
+    <h3>Second sub topic for the h2</h3>
+      <p>Details and text copy that belongs to the h3 [...]</p>
+  <h2>Third topic on the page</h2>
+    <h3>Sub heading one for the h2 above </p>
+    <h3>Sub heading two for the h2 above</h3>
+      <p>Details and text copy that belongs to the above h3 [...]</p>
+    <h3>Sub heading three for the h2 above</h3>
+      <p>Details and text copy that belongs to the h3 [...]</p>
+  <h2>Forth topic on the page</h2>
+    <h3>Sub heading one for the h2 above</h3>
+    <h3>Sub heading two for the h2 above</h3>
+      <p>Details and text copy that belongs to the above h3 [...]</p>
+</div>
